@@ -7,7 +7,7 @@ Repositório contendo arquivo .py do Global Solution de Database Application & D
 Registro de desastres naturais  
 
 Insira as seguintes informações para registrar o(s) desastre(s):
-- Quantidade de desastres que ocorreram
-- Quantos desastres gostaria de registrar
+- Quantidade de desastres que gostaria de registrar
+- Tipo de desastre
 - Local onde o desastre ocorreu
 - Pessoas afetadas de cada categoria
